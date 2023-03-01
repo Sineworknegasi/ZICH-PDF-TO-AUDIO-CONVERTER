@@ -6,17 +6,17 @@ The PDF to Audio Converter is a software tool that allows users to convert text 
 ## Installation
 To install the PDF to Audio Converter, follow these steps:
 
-1. Download the software package from [insert link to software package].
+1. Download the software package from [https://github.com/Sineworknegasi/ZICH-PDF-TO-AUDIO-CONVERTER/].
 2. Run the installation file and follow the prompts to complete the installation.
 3. Once the installation is complete, launch the software.
 
 ## Usage
 To use the PDF to Audio Converter, follow these steps:
 
-1. Open the software and select the PDF file you want to convert.
+1. Open the the web application and select the PDF file you want to convert.
 2. Choose the desired audio output format (e.g., MP3, WAV, etc.) and select any additional options.
-3. Click the "Convert" button to begin the conversion process.
-4. Once the conversion is complete, the audio file will be saved to your specified location.
+3. Click the "Convert and download" button to begin the conversion process.
+4. Once the conversion is complete, the audio file will be saved to your specified location automatically.
 
 ## Contributing
 We welcome contributions to the PDF to Audio Converter project. If you would like to contribute, please follow these steps:
