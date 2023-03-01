@@ -6,7 +6,7 @@ The PDF to Audio Converter is a software tool that allows users to convert text 
 ## Installation
 To install the PDF to Audio Converter, follow these steps:
 
-1. Download the software package from [insert link to software package].
+1. Download the software package from [https://github.com/Sineworknegasi/ZICH-PDF-TO-AUDIO-CONVERTER/].
 2. Run the installation file and follow the prompts to complete the installation.
 3. Once the installation is complete, launch the software.
 
@@ -49,9 +49,9 @@ The PDF to Audio Converter is built using Python and utilizes the PyPDF2 and pyt
 ### Installation
 To install the PDF to Audio Converter, follow these steps:
 
-1. Clone the repository from GitHub:
-2. Install the required Python packages:
-3. Run the software:
+1. Clone the repository from GitHub:https://github.com/Sineworknegasi/ZICH-PDF-TO-AUDIO-CONVERTER/
+2. Install the required Python packages:main.py
+3. Run the software that is main.py:
 
 ### Usage
 To use the PDF to Audio Converter, follow these steps:
